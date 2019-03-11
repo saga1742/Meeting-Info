@@ -1,0 +1,5 @@
+Meeting of Monday, February 25
+Began: 4:30
+Began work on milestone 2
+Established most of the functional requirements for PlanIt
+Ended 5:50
