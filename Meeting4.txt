@@ -4,4 +4,4 @@ discussed requirements for milestone 3
 established what else needs to be done by then
 began work on database & back end structure planning
 
-Ended: 
+Ended: 5:00
