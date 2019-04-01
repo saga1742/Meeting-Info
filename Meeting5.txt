@@ -1,0 +1,8 @@
+Meeting of Monday, April 1
+Began: 4:30
+Discussed and mostly finalized milestone 5 requirements
+decided to wait to finalize back end for project until we learn heroku this week
+will finish milestone 5 next week as it has been pushed back.
+
+Ended: 5:00
+
